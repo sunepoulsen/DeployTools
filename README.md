@@ -1,2 +1,2 @@
-# docker-images
+# Docker Images
 Scripts to create images for docker
